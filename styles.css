@@ -7,8 +7,22 @@
     font-size: 40px;
     color:brown;
     background-color: beige;
+    margin: 0 auto;
 }
 
+.main-page-title {
+    text-align: center;
+    padding: 8px 20px;
+    
+}
+.main-page-list a {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    background-color: rgb(60, 197, 6);
+    margin: 30px;
+    display: block;
+    padding: 10px;
+}
 
 ul > li {
 
@@ -20,8 +34,5 @@ ol li {
     color:blueviolet;
 }
 
-.main-page-list a {
-    text-decoration: none;
-    color:white;
-    background-color: blue;
-}
+
+
